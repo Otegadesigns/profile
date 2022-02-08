@@ -14,7 +14,6 @@ Hi, I'm Ibuje Tega, an inspiring fullstack developer 🚀, graphics designer gra
 - 🌱 I’m currently learning Javascript, ReactJs and Node.js; 
 - 💬 Ask me about anything related to Node.js and Azure, I am happy to help;
 - 📫 How to reach me: Otegadesigns@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1SjgMa8MleWXqj5g-KmL-ygwHn4AjLiju/view?usp=sharing)
 
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
