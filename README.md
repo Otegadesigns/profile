@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm Ibuje Tega, an inspiring fullstack developer 🚀, graphics designer graudually becomming a Full Stack developer and an Azure Developer from Nigeria 🇳🇬, Beside's programming, I enjoy Reading about tech, football⚽ and surfing the web.
+Hi, I'm Ibuje Tega, an inspiring fullstack developer 🚀, graphics designer graudually becomming a Full Stack developer from Nigeria 🇳🇬, Beside's programming, I enjoy Reading about tech, football⚽ and surfing the web.
 
 - 🌱 I’m currently learning Javascript, ReactJs and Node.js; 
 - 💬 Ask me about anything related to Node.js and Azure, I am happy to help;
